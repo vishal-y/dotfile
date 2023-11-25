@@ -1,9 +1,9 @@
 
 # DOTFILES
 
-I was wew to Vim just a week ago, I stumbled upon Neovim and NvChad and fell in love. Learning was tough, but the power it offers for coding is incredible. Coming from Visual Studio Code, I've tailored my Neovim setup with basic shortcuts and a touch of VS Code familiarity. Perfect for newcomers making the switch. Let's code efficiently together!
+I was wew to Vim just a week ago, I stumbled upon Neovim and NvChad and fell in love. Learning was tough, but the power it offers for coding is incredible. Coming from Visual Studio Code, I've tailored my Neovim setup with basic shortcuts and a touch of VS Code familiarity. Perfect for newcomers making the switch. 
 
-These dotfiles are designed to empower your workflow with a harmonious blend of productivity features, visual appeal, and familiar shortcuts.
+These dotfiles are designed to empower your workflow with a harmonious blend of productivity features, visual appeal, and familiar shortcuts. 😃
 
 
 **NOTE : Pre-requisites**
@@ -55,15 +55,16 @@ Feel free to customize the configuration further according to your preferences. 
 
 ## Screenshots
 
-![Screenshot 2023-11-25 131906](https://github.com/vishal-y/dotfile/assets/85288372/e4ecbe86-5198-4675-9eb8-3af772a42030)
-code
+![code](https://github.com/vishal-y/dotfile/assets/85288372/1e71aa14-2267-4743-9d29-48a65a0e7ad4)
+code 👆🏻
 
-![Screenshot 2023-11-25 131925](https://github.com/vishal-y/dotfile/assets/85288372/62b284e2-6813-4917-9ba8-31e776ec5a55)
-output
+![output](https://github.com/vishal-y/dotfile/assets/85288372/a0cad141-af91-441b-9291-c59f6435262a)
+output 👆🏻
+
 
 ## Demo
 
-https://github.com/vishal-y/dotfile/assets/85288372/5148c189-9ad9-4d9a-aecf-cbe574b4ad30
+![demo](https://github.com/vishal-y/dotfile/assets/85288372/8738d9c0-a6a7-4060-b4d7-8ca12e8b5ea6)
 
 
 
