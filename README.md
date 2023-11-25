@@ -55,12 +55,15 @@ Feel free to customize the configuration further according to your preferences. 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2023-11-25 131906](https://github.com/vishal-y/dotfile/assets/85288372/e4ecbe86-5198-4675-9eb8-3af772a42030)
+code
 
-
+![Screenshot 2023-11-25 131925](https://github.com/vishal-y/dotfile/assets/85288372/62b284e2-6813-4917-9ba8-31e776ec5a55)
+output
 
 ## Demo
 
+https://github.com/vishal-y/dotfile/assets/85288372/5148c189-9ad9-4d9a-aecf-cbe574b4ad30
 
 
 
