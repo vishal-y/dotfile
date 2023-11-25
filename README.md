@@ -55,10 +55,11 @@ Feel free to customize the configuration further according to your preferences. 
 
 ## Screenshots
 
-![code](https://github.com/vishal-y/dotfile/assets/85288372/1e71aa14-2267-4743-9d29-48a65a0e7ad4)
+![code](https://github.com/vishal-y/dotfile/assets/85288372/046aa1f8-9949-4c9d-91d0-927cb3d23030)
 code 👆🏻
 
-![output](https://github.com/vishal-y/dotfile/assets/85288372/a0cad141-af91-441b-9291-c59f6435262a)
+
+![output](https://github.com/vishal-y/dotfile/assets/85288372/ef624a38-89df-4bc4-b65f-de8def76a9b9)
 output 👆🏻
 
 
